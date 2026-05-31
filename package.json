@@ -1,0 +1,8 @@
+{
+  "name": "rail-tracker-backend",
+  "version": "1.0.0",
+  "description": "Railway Tracker API Backend",
+  "engines": {
+    "node": "18.x"
+  }
+}
